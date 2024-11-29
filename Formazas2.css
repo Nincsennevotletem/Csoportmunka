@@ -4,3 +4,15 @@ body {
 img {
     border-radius: 45px;
   }
+  a {
+    color: rgb(255, 196, 141)
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:link{
+    font-weight: bold;
+  }
+  ul li{
+    list-style-type: none;
+  }
