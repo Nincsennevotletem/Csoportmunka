@@ -4,6 +4,11 @@ body {
 img {
     border-radius: 45px;
   }
+/* mouse over link */
+a:hover {
+    color: rgb(255, 249, 159)
+}
+
   a {
     color: rgb(255, 196, 141)
   }
